@@ -813,6 +813,15 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/continuedev/continue">github</a> | <a href="https://continue.dev">website</a></p>
 </div>
 
+### CORE-RTH
+<div><a href="https://github.com/rthgit/CORE-RTH"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/rthgit/CORE-RTH"><img src="https://img.shields.io/github/stars/rthgit/CORE-RTH?style=social" alt="GitHub stars"></a></div>
+<p>🤖 AI Agents</p>
+
+<p>CORE-RTH is an open-source cognitive kernel and AI control plane for orchestrating multi-agent systems and real-world automation (robotics, IoT, messaging).</p>
+
+<p><a href="https://github.com/rthgit/CORE-RTH">github</a></p>
+</div>
+
 ### Cosmo
 <div><a href="https://meetcosmo.ai/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
